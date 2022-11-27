@@ -47,6 +47,10 @@ header {
   height: 320px;
 }
 
+.main-boxes img {
+  height: auto;
+}
+
 .main-boxes .box{
   height: auto;
 }
