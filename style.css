@@ -41,6 +41,12 @@ header {
   padding: 15px;
   height: 820px;
 }
+
+.box img{
+  object-fit: cover;
+  height: 320px;
+}
+
 .main-boxes .box{
   height: auto;
 }
